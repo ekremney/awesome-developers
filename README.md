@@ -32,6 +32,8 @@
 
 ## C
 
+- [Dennis Ritchie](http://cm.bell-labs.co/who/dmr/) - Creator of C programming language
+- [Brian Kernighan](https://www.cs.princeton.edu/~bwk/) - Co-Author of The C Programming Language, Creator of AWK programming language
 - [Linus Torvalds](https://github.com/torvalds) - Creator of Linux kernel
 
 ## Ruby
