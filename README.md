@@ -182,6 +182,11 @@
   - **Github:** https://github.com/holman
   - **Blog / Site:** http://zachholman.com
 
+- [Sean Griffin](https://github.com/sgrif)
+  - **Languages**: ![ruby](https://img.shields.io/badge/lang-ruby-701516.svg) ![rust](https://img.shields.io/badge/lang-rust-dea584.svg)
+  - **Accomplishments:** [Rails](http://rubyonrails.org/) committer. Maintainer of [Active Record](http://guides.rubyonrails.org/active_record_basics.html). Creator of [Diesel](http://diesel.rs/). projects
+  - **Github:** https://github.com/holman
+  - **Blog / Site:** http://zachholman.com
 
 ## License
 
