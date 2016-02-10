@@ -13,8 +13,22 @@
 
 ## Javascript
 
-- [Douglas Crockford](http://www.crockford.com/) - Author of Javascript: The Good Parts
-- [Sindre Sorhus](https://github.com/sindresorhus) - Creator of AVA__js, TodoMVC, Yeoman.
+- [Douglas Crockford](http://www.crockford.com/)
+  - **Accomplishments**
+    - Author of Javascript: The Good Parts
+  - **Github Repo**
+      - https://github.com/douglascrockford
+  - **Blog / Site**
+      - http://www.crockford.com/
+- [Sindre Sorhus](https://github.com/sindresorhus)
+  - **Accomplishments**
+    - Creator of AVA__js, TodoMVC, Yeoman.
+  - **Github Repo**
+    - https://github.com/sindresorhus
+  - **Twitter**
+    - https://twitter.com/sindresorhus
+  - **Blog / Site**
+    - https://blog.sindresorhus.com/
 - [Dan Abramov](https://github.com/gaearon) - Created Redux, React Hot Loader, React DnD
 - [Kyle Simpson](https://github.com/getify) - Creator of You Dont Know JS
 - [Jeremy Ashkenas](https://github.com/jashkenas) - Creator of Backbone.js, Underscore.js, CoffeeScript, and a neat doc generator called Docco
@@ -24,6 +38,7 @@
 - [Mike McNeil](https://www.linkedin.com/in/mikermcneil) - Creator of sails.js
 - [John Papa](https://github.com/johnpapa) - Creator of Angular Styleguide
 - [Nicolás Bevacqua](https://github.com/bevacqua) - Creator of Dragula, Author of Javascript Application Design
+- [Kevin Sawicki](https://github.com/kevinsawicki) - The most active committer on Atom Text editor
 
 ## Rust
 
@@ -40,19 +55,23 @@
 ## Ruby
 
 - [David Heinemeier hansson](https://github.com/dhh) - Creator of Ruby on Rails
-- [Nobuyoshi Nakada](https://github.com/nobu) - Most active core commiter on Ruby language
+- [Nobuyoshi Nakada](https://github.com/nobu) - Most active core committer on Ruby language
+- [Aaron Patterson](https://github.com/tenderlove) - One of most active committer on Ruby On Rails
 
 ## Python
 
 - [Guido van Rossum](https://github.com/gvanrossum) - Creator and BDFL of Python language
 - [Armin Ronacher](https://github.com/mitsuhiko) - Creator of Flask - A Python Microframework
 - [Adrian Holovaty](https://github.com/adrianholovaty) - Co-Creator of Django Framework
+- [Marcel Hellkamp](https://github.com/defnull) - Creator of Bottle.py, an awesomely light-weight Python web frameworks
 - [Kenneth Reitz](https://github.com/kennethreitz) - Creator of Requests - Python HTTP Requests for Humans™
 - [Benjamin Peterson](https://github.com/gutworth) - Python implementor; CPython and PyPy core developer.
+- [Jacob Kaplan-Moss](https://github.com/jacobian) - Core contributor to Django.
 
 ## PHP
 
 - [Taylor Otwell](https://github.com/taylorotwell) - Creator of Laravel
+- [Dominik Liebler](https://github.com/domnikl) - Creator of DesignPatternsPHP
 - [Jeffrey Way](https://github.com/JeffreyWay) - Creator of Laracast.com and many PHP tutorials
 
 ## Elixir
