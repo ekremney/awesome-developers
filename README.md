@@ -14,12 +14,9 @@
 ## Javascript
 
 - [Douglas Crockford](http://www.crockford.com/)
-  - **Accomplishments**
-    - Author of Javascript: The Good Parts
-  - **Github Repo**
-      - https://github.com/douglascrockford
-  - **Blog / Site**
-      - http://www.crockford.com/
+  - **Accomplishments:** Author of Javascript: The Good Parts
+  - **Github Repo:** https://github.com/douglascrockford
+  - **Blog / Site:** http://www.crockford.com/
 - [Sindre Sorhus](https://github.com/sindresorhus)
   - *Accomplishments*
     - Creator of AVA__js, TodoMVC, Yeoman.
