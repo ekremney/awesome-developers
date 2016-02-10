@@ -177,7 +177,7 @@
   - **Github:** https://github.com/evancz
 
 - [Zach Holman](http://zachholman.com)
-  - **Languages**: ![shell](https://img.shields.io/badge/lang-shell-89e051.svg)
+  - **Languages**: ![shell](https://img.shields.io/badge/lang-shell-89e051.svg) ![ruby](https://img.shields.io/badge/lang-ruby-701516.svg)
   - **Accomplishments:** Creator of Spark. He also contributes for some Ruby projects
   - **Github:** https://github.com/holman
   - **Blog / Site:** http://zachholman.com
