@@ -7,65 +7,65 @@
   - **Blog / Site:** http://www.crockford.com/
 
 - [Sindre Sorhus](https://github.com/sindresorhus)
-- **Languages**: ![javascript](https://img.shields.io/badge/lang-javascript-f1e05a.svg)
+  - **Languages**: ![javascript](https://img.shields.io/badge/lang-javascript-f1e05a.svg)
   - **Accomplishments:** Creator of AVA__js, TodoMVC, Yeoman.
   - **Github:** https://github.com/sindresorhus
   - **Twitter:** https://twitter.com/sindresorhus
   - **Blog / Site:** https://blog.sindresorhus.com/
 
 - [Dan Abramov](https://github.com/gaearon)
-- **Languages**: ![javascript](https://img.shields.io/badge/lang-javascript-f1e05a.svg)
+  - **Languages**: ![javascript](https://img.shields.io/badge/lang-javascript-f1e05a.svg)
   - **Accomplishments:** Created Redux, React Hot Loader, React DnD
   - **Github:** https://github.com/gaearon
   - **Twitter:** https://twitter.com/dan_abramov
 
 - [Kyle Simpson](https://github.com/getify)
-- **Languages**: ![javascript](https://img.shields.io/badge/lang-javascript-f1e05a.svg)
+  - **Languages**: ![javascript](https://img.shields.io/badge/lang-javascript-f1e05a.svg)
   - **Accomplishments:** Creator of You Dont Know JS
   - **Github:** https://github.com/getify
   - **Twitter:** https://twitter.com/getif
 
 - [Jeremy Ashkenas](https://github.com/jashkenas)
-- **Languages**: ![javascript](https://img.shields.io/badge/lang-javascript-f1e05a.svg)
+  - **Languages**: ![javascript](https://img.shields.io/badge/lang-javascript-f1e05a.svg)
   - **Accomplishments:** Creator of Backbone.js, Underscore.js, CoffeeScript, and a neat doc generator called Docco
   - **Github:** https://github.com/jashkenas
   - **Twitter:** https://twitter.com/jashkenas
 
 - [Mike Bostock](https://github.com/mbostock)
-- **Languages**: ![javascript](https://img.shields.io/badge/lang-javascript-f1e05a.svg)
+  - **Languages**: ![javascript](https://img.shields.io/badge/lang-javascript-f1e05a.svg)
   - **Accomplishments:** Creator of D3.js
   - **Github:** https://github.com/mbostock
   - **Twitter:** https://twitter.com/mbostock
 
 - [Misko Hevery](https://github.com/mhevery)
-- **Languages**: ![javascript](https://img.shields.io/badge/lang-javascript-f1e05a.svg)
+  - **Languages**: ![javascript](https://img.shields.io/badge/lang-javascript-f1e05a.svg)
   - **Accomplishments:** Father of AngularJS
   - **Github:** https://github.com/mhevery
 
 - [André Staltz](https://github.com/staltz)
-- **Languages**: ![javascript](https://img.shields.io/badge/lang-javascript-f1e05a.svg)
+  - **Languages**: ![javascript](https://img.shields.io/badge/lang-javascript-f1e05a.svg)
   - **Accomplishments:** Creator of Cycle.js
   - **Github:** https://github.com/staltz
   - **Twitter:** https://twitter.com/andrestaltz
 
 - [Mike McNeil](https://github.com/mikermcneil)
-- **Languages**: ![javascript](https://img.shields.io/badge/lang-javascript-f1e05a.svg)
+  - **Languages**: ![javascript](https://img.shields.io/badge/lang-javascript-f1e05a.svg)
   - **Accomplishments:** Creator of sails.js
   - **Github:** https://github.com/mikermcneil
   - **Twitter:** https://twitter.com/mikermcneil
 
 - [John Papa](https://github.com/johnpapa)
-- **Languages**: ![javascript](https://img.shields.io/badge/lang-javascript-f1e05a.svg)
+  - **Languages**: ![javascript](https://img.shields.io/badge/lang-javascript-f1e05a.svg)
   - **Accomplishments:** Creator of Angular Styleguide
   - **Github:** https://github.com/johnpapa
 
 - [Nicolás Bevacqua](https://github.com/bevacqua)
-- **Languages**: ![javascript](https://img.shields.io/badge/lang-javascript-f1e05a.svg)
+  - **Languages**: ![javascript](https://img.shields.io/badge/lang-javascript-f1e05a.svg)
   - **Accomplishments:** Creator of Dragula, Author of Javascript Application Design
   - **Github:** https://github.com/bevacqua
 
 - [Kevin Sawicki](https://github.com/kevinsawicki)
-- **Languages**: ![javascript](https://img.shields.io/badge/lang-javascript-f1e05a.svg)
+  - **Languages**: ![javascript](https://img.shields.io/badge/lang-javascript-f1e05a.svg)
   - **Accomplishments:** The most active committer on Atom Text editor
   - **Github:** https://github.com/kevinsawicki
 
