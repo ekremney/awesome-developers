@@ -14,7 +14,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make sure the developer is relevant in the ecosystem he is involved
 - Link additions should be added to the bottom of the relevant category.
-- Fix description and add another source of information about the developer is welcome
+- The only Social Networks profiles that will be accepted will be: Github, Twitter, StackOverflow and Quora. (Facebook or Linkedin profiles will be not accepted).
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.

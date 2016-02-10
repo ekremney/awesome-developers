@@ -25,15 +25,19 @@
 - [Dan Abramov](https://github.com/gaearon)
   - **Accomplishments:** Created Redux, React Hot Loader, React DnD
   - **Github:** https://github.com/gaearon
+  - **Twitter:** https://twitter.com/dan_abramov
 - [Kyle Simpson](https://github.com/getify)
   - **Accomplishments:** Creator of You Dont Know JS
   - **Github:** https://github.com/getify
+  - **Twitter:** https://twitter.com/getif
 - [Jeremy Ashkenas](https://github.com/jashkenas)
   - **Accomplishments:** Creator of Backbone.js, Underscore.js, CoffeeScript, and a neat doc generator called Docco
   - **Github:** https://github.com/jashkenas
+  - **Twitter:** https://twitter.com/jashkenas
 - [Mike Bostock](https://github.com/mbostock)
   - **Accomplishments:** Creator of D3.js
   - **Github:** https://github.com/mbostock
+  - **Twitter:** https://twitter.com/mbostock
 - [Misko Hevery](https://github.com/mhevery)
   - **Accomplishments:** Father of AngularJS
   - **Github:** https://github.com/mhevery
@@ -126,11 +130,13 @@
 - [Jeffrey Way](https://github.com/JeffreyWay)
   - **Accomplishments:** Creator of Laracast.com and many PHP tutorials
   - **Github:** https://github.com/JeffreyWay
+  - **Twitter:** https://twitter.com/jeffrey_way
 
 ## Elixir
 - [José Valim](https://github.com/josevalim)
   - **Accomplishments:** Creator of Elixir language
   - **Github:** https://github.com/josevalim
+  - **Twitter:** https://twitter.com/josevalim
 
 ## Elm
 - [Evan Czaplicki](https://github.com/evancz)
