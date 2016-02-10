@@ -7,7 +7,9 @@
 - [C](#c)
 - [Ruby](#ruby)
 - [Python](#python)
-- [PHP](#PHP)
+- [PHP](#php)
+- [Elixir](#elixir)
+- [Elm](#elm)
 
 ## Javascript
 
@@ -16,12 +18,17 @@
 - [Kyle Simpson](https://github.com/getify) - Creator of You Dont Know JS
 - [Jeremy Ashkenas](https://github.com/jashkenas) - Creator of CoffeeScript
 - [Mike Bostock](https://github.com/mbostock) - Creator of D3.js
+- [Misko Hevery](https://github.com/mhevery) - Father of AngularJS
 - [André Staltz](https://github.com/staltz) - Creator of Cycle.js
+- [Mike McNeil](https://www.linkedin.com/in/mikermcneil) - Creator of sails.js
+- [John Papa](https://github.com/johnpapa) - Creator of Angular Styleguide
 - [Nicolás Bevacqua](https://github.com/bevacqua) - Creator of Dragula, Author of Javascript Application Design
 
 ## Rust
 
-- [Steve Klabnik](https://github.com/steveklabnik) - Author of The Rust Programming Language Book, Rust-lang committer
+- [Graydon Hoare](https://github.com/graydon) - Creator of Rust
+- [Steve Klabnik](https://github.com/steveklabnik) - Author of The Rust Programming Language Book, Rust Core Team
+- [Brian Anderson](https://github.com/brson) - Rust Core Team, rust-lang most active committer
 
 ## C
 
@@ -34,14 +41,22 @@
 
 ## Python
 
+- [Guido van Rossum](https://github.com/gvanrossum) - Creator and BDFL of Python language
 - [Armin Ronacher](https://github.com/mitsuhiko) - Creator of Flask - A Python Microframework
+- [Adrian Holovaty](https://github.com/adrianholovaty) - Co-Creator of Django Framework
 - [Kenneth Reitz](https://github.com/kennethreitz) - Creator of Requests - Python HTTP Requests for Humans™
+- [Benjamin Peterson](https://github.com/gutworth) - Python implementor; CPython and PyPy core developer.
 
 ## PHP
 
 - [Taylor Otwell](https://github.com/taylorotwell) - Creator of Laravel
+- [Jeffrey Way](https://github.com/JeffreyWay) - Creator of Laracast.com and many PHP tutorials
 
+## Elixir
+- [José Valim](https://github.com/josevalim) - Creator of Elixir language
 
+## Elm
+- [Evan Czaplicki](https://github.com/evancz) - Creator of Elm language
 
 ## License
 
