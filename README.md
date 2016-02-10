@@ -17,7 +17,7 @@
 - [Sindre Sorhus](https://github.com/sindresorhus) - Creator of AVA__js, TodoMVC, Yeoman.
 - [Dan Abramov](https://github.com/gaearon) - Created Redux, React Hot Loader, React DnD
 - [Kyle Simpson](https://github.com/getify) - Creator of You Dont Know JS
-- [Jeremy Ashkenas](https://github.com/jashkenas) - Creator of CoffeeScript
+- [Jeremy Ashkenas](https://github.com/jashkenas) - Creator of Backbone.js, Underscore.js, CoffeeScript, and a neat doc generator called Docco
 - [Mike Bostock](https://github.com/mbostock) - Creator of D3.js
 - [Misko Hevery](https://github.com/mhevery) - Father of AngularJS
 - [André Staltz](https://github.com/staltz) - Creator of Cycle.js
