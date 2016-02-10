@@ -13,6 +13,7 @@
 
 ## Javascript
 
+- [Douglas Crockford](http://www.crockford.com/) - Author of Javascript: The Good Parts
 - [Sindre Sorhus](https://github.com/sindresorhus) - Creator of AVA__js, TodoMVC, Yeoman.
 - [Dan Abramov](https://github.com/gaearon) - Created Redux, React Hot Loader, React DnD
 - [Kyle Simpson](https://github.com/getify) - Creator of You Dont Know JS
