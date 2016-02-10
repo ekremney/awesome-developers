@@ -21,13 +21,13 @@
   - **Blog / Site**
       - http://www.crockford.com/
 - [Sindre Sorhus](https://github.com/sindresorhus)
-  - **Accomplishments**
+  - *Accomplishments*
     - Creator of AVA__js, TodoMVC, Yeoman.
-  - **Github Repo**
+  - *Github Repo*
     - https://github.com/sindresorhus
-  - **Twitter**
+  - *Twitter*
     - https://twitter.com/sindresorhus
-  - **Blog / Site**
+  - *Blog / Site*
     - https://blog.sindresorhus.com/
 - [Dan Abramov](https://github.com/gaearon) - Created Redux, React Hot Loader, React DnD
 - [Kyle Simpson](https://github.com/getify) - Creator of You Dont Know JS
