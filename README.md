@@ -118,16 +118,19 @@
   - **Languages**: ![python](https://img.shields.io/badge/lang-python-3572A5.svg)
   - **Accomplishments:** Creator and BDFL of Python language
   - **Github:** https://github.com/gvanrossum
+  - **Twitter:** https://twitter.com/gvanrossum
 
 - [Armin Ronacher](https://github.com/mitsuhiko)
   - **Languages**: ![python](https://img.shields.io/badge/lang-python-3572A5.svg)
   - **Accomplishments:** Creator of Flask  Python Microframework
   - **Github:** https://github.com/mitsuhiko
+  - **Twitter:** https://twitter.com/mitsuhiko
 
 - [Adrian Holovaty](https://github.com/adrianholovaty)
   - **Languages**: ![python](https://img.shields.io/badge/lang-python-3572A5.svg)
   - **Accomplishments:** Co-Creator of Django Framework
   - **Github:** https://github.com/adrianholovaty
+  - **Twitter:** https://twitter.com/adrianholovaty
 
 - [Marcel Hellkamp](https://github.com/defnull)
   - **Languages**: ![python](https://img.shields.io/badge/lang-python-3572A5.svg)
@@ -138,16 +141,19 @@
   - **Languages**: ![python](https://img.shields.io/badge/lang-python-3572A5.svg)
   - **Accomplishments:** Creator of Requests Python HTTP Requests for Humans™
   - **Github:** https://github.com/kennethreitz
+  - **Twitter:** https://twitter.com/kennethreitz
 
 - [Benjamin Peterson](https://github.com/gutworth)
   - **Languages**: ![python](https://img.shields.io/badge/lang-python-3572A5.svg)
   - **Accomplishments:** Python implementor; CPython and PyPy core developer.
   - **Github:** https://github.com/gutworth
+  - **Twitter:** https://twitter.com/gutworth
 
 - [Jacob Kaplan-Moss](https://github.com/jacobian)
   - **Languages**: ![python](https://img.shields.io/badge/lang-python-3572A5.svg)
   - **Accomplishments:** Core contributor to Django.
   - **Github:** https://github.com/jacobian
+  - **Twitter:** https://twitter.com/jacobian
 
 - [Taylor Otwell](https://github.com/taylorotwell)
   - **Languages**: ![php](https://img.shields.io/badge/lang-php-4F5D95.svg)
